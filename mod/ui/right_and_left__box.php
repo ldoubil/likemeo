@@ -8,7 +8,7 @@
 
 <div class="row">
 <div class="col-sm-3" id="left_box_a_b" >
-阿萨德
+
 
     </div>
 

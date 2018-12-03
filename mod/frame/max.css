@@ -192,3 +192,16 @@ div.img_tou_box_1:hover{
     width: 120px;
     height: 1mm;
 }
+
+
+/*自定义字体*/
+
+@font-face
+{
+    font-family:myyuan;
+    src: url('/text/yuan.TTF');
+}
+.zitiyuan
+{
+    font-family: myyuan;
+}
