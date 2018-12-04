@@ -1,21 +1,8 @@
-# 2018年11月26日19:00:06
-## 1. index.php
-
-
-```
-> 引用
-> -> include "config.php";
-
-> ->include "mod/frame/head.php";
-
-> ->include "mod/frame/content.php";
-
-> ->include "mod/frame/foot.php";
-```
-
-## 2. 网站头文件head.php 
-```
- >内部引用头文件，和css格式引用
+# 2018年12月4日19:26:01
  
-```
- 
+ ```
+更新了主页，采用目录方式吧~~
+index.php  = > modeule/home/index.php
+
+主页暂未制作2018年12月4日19:27:40
+ ```
