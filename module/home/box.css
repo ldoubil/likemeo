@@ -1,0 +1,43 @@
+/* 盒子尺寸,位置 */
+div.box_w_h
+{
+    
+    left: 5%;
+    margin: 30px;
+    height: 200px;
+    width: 90%;
+    position: relative;
+
+    
+}
+
+
+/* bili盒子 */
+
+div.bilibili_you
+{
+    position: relative;
+    width: 30%;
+    height: 100%;
+    background-color: cyan;
+}
+div.bilibili_zuo
+{
+    height: 100%;
+    position: relative;
+    width: 70%;
+    
+
+}
+
+div.user
+{
+    height: 200px;
+    overflow:hidden;
+}
+.img
+{
+    
+    width: 100%;
+    position: relative;
+}
