@@ -1,43 +1,41 @@
 /* 盒子尺寸,位置 */
-div.box_w_h
-{
-    
-    left: 5%;
-    margin: 30px;
-    height: 200px;
-    width: 90%;
-    position: relative;
-
-    
+div.box_w_h {
+  left: 5%;
+  margin: 30px;
+  height: 200px;
+  width: 90%;
+  position: relative;
 }
-
 
 /* bili盒子 */
 
-div.bilibili_you
-{
-    position: relative;
-    width: 30%;
-    height: 100%;
-    background-color: cyan;
+div.bilibili_you {
+  position: relative;
+  width: 10%;
+  height: 100%;
+  background-color: cyan;
 }
-div.bilibili_zuo
-{
-    height: 100%;
-    position: relative;
-    width: 70%;
-    
-
+div.bilibili_zuo {
+  left: 10%;
+  height: 100%;
+  position: relative;
+  width: 90%;
+  top: -200px;
 }
-
-div.user
-{
-    height: 200px;
-    overflow:hidden;
+div.user {
+  height: 200px;
+  overflow: hidden;
 }
-.img
-{
-    
-    width: 100%;
-    position: relative;
+.img {
+  height: 100%;
+  /* width: 100%; */
+  position: relative;
+}
+/* 字体颜色bilibili */
+.bilibili_color {
+  color: white;
+}
+.shijian_weizhi {
+margin-top: -45px;
+ margin-left: 150px;
 }

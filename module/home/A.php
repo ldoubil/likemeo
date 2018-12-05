@@ -13,7 +13,7 @@
       //引入Bootstrap4css和js
       include("/public/html/Bootstrap4.php");
       ?>
-      <link rel="stylesheet" href="/module/home/box.css">
+      <link rel="stylesheet" href="/module/home/box.css?version=3">
 
       <style type="text/css">
 
@@ -28,7 +28,7 @@
       div.gaodu
       {
         
-        height: 1000px;
+        /* 暂无设置 */
       }
       
       
@@ -52,11 +52,19 @@
 </nav>
 
 <div class="row">
-  <div class="col-sm-9 gaodu qianlan">
+  <div class=" col-sm-9 gaodu qianlan">
     
     
       <?php
       
+      include "/module/home/A_bilibili.php";
+      include "/module/home/A_bilibili.php";
+      include "/module/home/A_bilibili.php";
+      include "/module/home/A_bilibili.php";
+      include "/module/home/A_bilibili.php";
+      include "/module/home/A_bilibili.php";
+      include "/module/home/A_bilibili.php";
+      include "/module/home/A_bilibili.php";
       include "/module/home/A_bilibili.php";
       include "/module/home/A_bilibili.php";
       include "/module/home/A_bilibili.php";
