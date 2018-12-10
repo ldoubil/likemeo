@@ -1,5 +1,6 @@
 /* 盒子尺寸,位置 */
 div.box_w_h {
+  overflow: hidden;
   left: 5%;
   margin: 30px;
   height: 200px;
@@ -7,7 +8,18 @@ div.box_w_h {
   position: relative;
 }
 
-/* bili盒子 */
+.mohu {
+  filter: blur(10px);
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.txt {
+  position: relative;
+  margin-top: -200px;
+}
+/*-------------------- bili盒子 ----------------------*/
 
 div.bilibili_you {
   position: relative;
@@ -15,6 +27,7 @@ div.bilibili_you {
   height: 100%;
   background-color: cyan;
 }
+
 div.bilibili_zuo {
   left: 10%;
   height: 100%;
@@ -36,6 +49,6 @@ div.user {
   color: white;
 }
 .shijian_weizhi {
-margin-top: -45px;
- margin-left: 150px;
+  margin-top: -45px;
+  margin-left: 150px;
 }

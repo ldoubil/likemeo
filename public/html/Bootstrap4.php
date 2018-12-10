@@ -4,7 +4,7 @@
         
         <!-- 新 Bootstrap4 核心 CSS 文件 -->
         <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.1.0/css/bootstrap.min.css">
- 
+        <link rel="stylesheet" href="/public/css/biaoti.css">
         <!-- jQuery文件。务必在bootstrap.min.js 之前引入 -->
         <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
  

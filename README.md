@@ -1,3 +1,10 @@
+
+# php函数
+## 1.登录检测请引用
+```
+include "public/php/Test_login.php"; 
+```
+
 # 2018年12月4日19:26:01
  
  ```
